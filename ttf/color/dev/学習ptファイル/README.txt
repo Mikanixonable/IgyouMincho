@@ -1,0 +1,1 @@
+AUTOMATIC1111版StableDiffusionWebui用のACertainThingファインチューニングptファイルです。ダウンロードしてembeddingsフォルダに入れ、プロンプトに「IgyouMinchoHiragana」などと入れると使えます。ファイル名を変更すると変更したファイル名がプロンプトに使えるようになります。

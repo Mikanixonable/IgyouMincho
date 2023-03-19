@@ -1,0 +1,11 @@
+
+JidouKaisatsu
+model: ACertainThing
+prompt: subway network map,CSS flat UI design,calm cold color scheme,colorful,integrated circit,network graph,D3js,icy palette
+input: SourceHanSans light
+
+DatsuaNyuou
+model: ACertainThing
+prompt: flat design,CSS animation,moebius,integrated circuit,dot art,logography,blue themed color scheme,sharp edge
+Denoising strength:0.83
+input: SourceHanSerif heavy
