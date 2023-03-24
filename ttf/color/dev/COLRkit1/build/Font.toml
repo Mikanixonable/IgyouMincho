@@ -1,0 +1,33 @@
+family = "test1"
+output_file = "Font.ttf"
+color_format = "glyf_colr_1"
+upem = 1024
+width = 1275
+ascender = 950
+descender = -250
+linegap = 0
+transform = "translate(0, 0)"
+version_major = 1
+version_minor = 0
+reuse_tolerance = 0.1
+ignore_reuse_error = true
+keep_glyph_names = false
+clip_to_viewbox = true
+pretty_print = false
+fea_file = "features.fea"
+glyphmap_generator = "nanoemoji.write_glyphmap"
+bitmap_resolution = 128
+use_zopflipng = true
+use_pngquant = true
+pngquant_flags = "--speed 1 --skip-if-larger --quality 85-95"
+
+[axis.wght]
+name = "Weight"
+default = 400
+
+[master.regular]
+style_name = "Regular"
+srcs = [ "picosvg\\clipped\\uni30a1.svg", "picosvg\\clipped\\uni30a2.svg", "picosvg\\clipped\\uni30a3.svg", "picosvg\\clipped\\uni30a4.svg", "picosvg\\clipped\\uni30a5.svg", "picosvg\\clipped\\uni30a6.svg", "picosvg\\clipped\\uni30a7.svg", "picosvg\\clipped\\uni30a8.svg", "picosvg\\clipped\\uni30a9.svg", "picosvg\\clipped\\uni30aa.svg", "picosvg\\clipped\\uni30ab.svg", "picosvg\\clipped\\uni30ac.svg", "picosvg\\clipped\\uni30ad.svg", "picosvg\\clipped\\uni30ae.svg", "picosvg\\clipped\\uni30af.svg", "picosvg\\clipped\\uni30b0.svg", "picosvg\\clipped\\uni30b1.svg", "picosvg\\clipped\\uni30b2.svg", "picosvg\\clipped\\uni30b3.svg", "picosvg\\clipped\\uni30b4.svg", "picosvg\\clipped\\uni30b5.svg", "picosvg\\clipped\\uni30b6.svg", "picosvg\\clipped\\uni30b7.svg", "picosvg\\clipped\\uni30b8.svg", "picosvg\\clipped\\uni30b9.svg", "picosvg\\clipped\\uni30ba.svg", "picosvg\\clipped\\uni30bb.svg", "picosvg\\clipped\\uni30bc.svg", "picosvg\\clipped\\uni30bd.svg", "picosvg\\clipped\\uni30be.svg", "picosvg\\clipped\\uni30bf.svg", "picosvg\\clipped\\uni30c0.svg", "picosvg\\clipped\\uni30c1.svg", "picosvg\\clipped\\uni30c2.svg", "picosvg\\clipped\\uni30c3.svg", "picosvg\\clipped\\uni30c4.svg", "picosvg\\clipped\\uni30c5.svg", "picosvg\\clipped\\uni30c6.svg", "picosvg\\clipped\\uni30c7.svg", "picosvg\\clipped\\uni30c8.svg", "picosvg\\clipped\\uni30c9.svg", "picosvg\\clipped\\uni30ca.svg", "picosvg\\clipped\\uni30cb.svg", "picosvg\\clipped\\uni30cc.svg", "picosvg\\clipped\\uni30cd.svg", "picosvg\\clipped\\uni30ce.svg", "picosvg\\clipped\\uni30cf.svg", "picosvg\\clipped\\uni30d0.svg", "picosvg\\clipped\\uni30d1.svg", "picosvg\\clipped\\uni30d2.svg", "picosvg\\clipped\\uni30d3.svg", "picosvg\\clipped\\uni30d4.svg", "picosvg\\clipped\\uni30d5.svg", "picosvg\\clipped\\uni30d6.svg", "picosvg\\clipped\\uni30d7.svg", "picosvg\\clipped\\uni30d8.svg", "picosvg\\clipped\\uni30d9.svg", "picosvg\\clipped\\uni30da.svg", "picosvg\\clipped\\uni30db.svg", "picosvg\\clipped\\uni30dc.svg", "picosvg\\clipped\\uni30dd.svg", "picosvg\\clipped\\uni30de.svg", "picosvg\\clipped\\uni30df.svg", "picosvg\\clipped\\uni30e0.svg", "picosvg\\clipped\\uni30e1.svg", "picosvg\\clipped\\uni30e2.svg", "picosvg\\clipped\\uni30e3.svg", "picosvg\\clipped\\uni30e4.svg", "picosvg\\clipped\\uni30e5.svg", "picosvg\\clipped\\uni30e6.svg", "picosvg\\clipped\\uni30e7.svg", "picosvg\\clipped\\uni30e8.svg", "picosvg\\clipped\\uni30e9.svg", "picosvg\\clipped\\uni30ea.svg", "picosvg\\clipped\\uni30eb.svg", "picosvg\\clipped\\uni30ec.svg", "picosvg\\clipped\\uni30ed.svg", "picosvg\\clipped\\uni30ee.svg", "picosvg\\clipped\\uni30ef.svg", "picosvg\\clipped\\uni30f0.svg", "picosvg\\clipped\\uni30f1.svg", "picosvg\\clipped\\uni30f2.svg", "picosvg\\clipped\\uni30f3.svg", "picosvg\\clipped\\uni30f4.svg", "picosvg\\clipped\\uni30f5.svg", "picosvg\\clipped\\uni30f6.svg", "picosvg\\clipped\\uni30fc.svg", "picosvg\\clipped\\uni30fd.svg", "picosvg\\clipped\\uni30fe.svg", "picosvg\\clipped\\uni31.svg", "picosvg\\clipped\\uni32.svg", "picosvg\\clipped\\uni33.svg", "picosvg\\clipped\\uni34.svg", "picosvg\\clipped\\uni35.svg", "picosvg\\clipped\\uni36.svg", "picosvg\\clipped\\uni37.svg", "picosvg\\clipped\\uni38.svg", "picosvg\\clipped\\uni39.svg", "picosvg\\clipped\\uni4e01.svg", "picosvg\\clipped\\uni4e03.svg", "picosvg\\clipped\\uni4e07.svg", "picosvg\\clipped\\uni4e08.svg", "picosvg\\clipped\\uni4e09.svg", "picosvg\\clipped\\uni4e0a.svg", "picosvg\\clipped\\uni4e0b.svg", "picosvg\\clipped\\uni4e0d.svg", "picosvg\\clipped\\uni4e0e.svg", "picosvg\\clipped\\uni4e11.svg", "picosvg\\clipped\\uni4e14.svg", "picosvg\\clipped\\uni4e16.svg", "picosvg\\clipped\\uni4e18.svg", "picosvg\\clipped\\uni4e19.svg", "picosvg\\clipped\\uni4e1e.svg", "picosvg\\clipped\\uni4e21.svg", "picosvg\\clipped\\uni4e26.svg", "picosvg\\clipped\\uni4e2d.svg", "picosvg\\clipped\\uni4e32.svg", "picosvg\\clipped\\uni4e38.svg", "picosvg\\clipped\\uni4e39.svg", "picosvg\\clipped\\uni4e3b.svg", "picosvg\\clipped\\uni4e3c.svg", "picosvg\\clipped\\uni4e43.svg", "picosvg\\clipped\\uni4e45.svg", "picosvg\\clipped\\uni4e4b.svg", "picosvg\\clipped\\uni4e4d.svg", "picosvg\\clipped\\uni4e4e.svg", "picosvg\\clipped\\uni4e4f.svg", "picosvg\\clipped\\uni4e57.svg", "picosvg\\clipped\\uni4e59.svg", "picosvg\\clipped\\uni4e5d.svg", "picosvg\\clipped\\uni4e5e.svg", "picosvg\\clipped\\uni4e5f.svg", "picosvg\\clipped\\uni4e71.svg", "picosvg\\clipped\\uni4e73.svg", "picosvg\\clipped\\uni4e7e.svg", "picosvg\\clipped\\uni4e80.svg", "picosvg\\clipped\\uni4e86.svg", "picosvg\\clipped\\uni4e88.svg", "picosvg\\clipped\\uni4e89.svg", "picosvg\\clipped\\uni4e8b.svg", "picosvg\\clipped\\uni4e8c.svg", "picosvg\\clipped\\uni4e91.svg", "picosvg\\clipped\\uni4e92.svg", "picosvg\\clipped\\uni4e94.svg", "picosvg\\clipped\\uni4e95.svg", "picosvg\\clipped\\uni4e98.svg", "picosvg\\clipped\\uni4e99.svg", "picosvg\\clipped\\uni4e9b.svg", "picosvg\\clipped\\uni4e9c.svg", "picosvg\\clipped\\uni4ea1.svg", "picosvg\\clipped\\uni4ea4.svg", "picosvg\\clipped\\uni4ea5.svg", "picosvg\\clipped\\uni4ea6.svg", "picosvg\\clipped\\uni4ea8.svg", "picosvg\\clipped\\uni4eab.svg", "picosvg\\clipped\\uni4eac.svg", "picosvg\\clipped\\uni4ead.svg", "picosvg\\clipped\\uni4eae.svg", "picosvg\\clipped\\uni4eba.svg", "picosvg\\clipped\\uni4ec0.svg", "picosvg\\clipped\\uni4ec1.svg", "picosvg\\clipped\\uni4ec7.svg", "picosvg\\clipped\\uni4eca.svg", "picosvg\\clipped\\uni4ecb.svg", "picosvg\\clipped\\uni4ecf.svg", "picosvg\\clipped\\uni4ed4.svg", "picosvg\\clipped\\uni4ed5.svg", "picosvg\\clipped\\uni4ed6.svg", "picosvg\\clipped\\uni4ed8.svg", "picosvg\\clipped\\uni4ed9.svg", "picosvg\\clipped\\uni4edd.svg", "picosvg\\clipped\\uni4ee3.svg", "picosvg\\clipped\\uni4ee4.svg", "picosvg\\clipped\\uni4ee5.svg", "picosvg\\clipped\\uni4eee.svg", "picosvg\\clipped\\uni4ef0.svg", "picosvg\\clipped\\uni4ef2.svg", "picosvg\\clipped\\uni4ef6.svg", "picosvg\\clipped\\uni4efb.svg", "picosvg\\clipped\\uni4f.svg", "picosvg\\clipped\\uni4f0a.svg", "picosvg\\clipped\\uni4f0d.svg", "picosvg\\clipped\\uni4f0e.svg", "picosvg\\clipped\\uni9b5a.svg",]
+
+[master.regular.position]
+wght = 400

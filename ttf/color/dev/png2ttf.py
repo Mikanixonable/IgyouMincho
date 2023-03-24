@@ -2,8 +2,6 @@
 png画像を二値化してttfフォントを作るプログラム。nymwaさんのtwahiのコードが原型 https://github.com/nymwa/ttf-twahi
 
 
-b c -> c koko
-c d -> d
 """
 import os
 import glob
